@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_BlackHat13_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FOfficial-BlackHat13&screen_name=_BlackHat13_)
 [![Website](https://img.shields.io/website?label=TryHackMe&style=for-the-badge&url=https://tryhackme.com/p/BlackHat13)](https://tryhackme.com/p/BlackHat13)
 
-## I'm a Hacker, Bug Bounty Hunter, And Python Developer !!
+## 𝐈'𝐦 𝐚 𝐇𝐚𝐜𝐤𝐞𝐫, 𝐁𝐮𝐠 𝐁𝐨𝐮𝐧𝐭𝐲 𝐇𝐮𝐧𝐭𝐞𝐫, 𝐀𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 !!
 
 - 🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐁𝐮𝐠 𝐁𝐨𝐮𝐧𝐭𝐲 𝐇𝐮𝐧𝐭𝐢𝐧𝐠 𝐀𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
 - 🥅 𝟐𝟎𝟐𝟏 𝐆𝐨𝐚𝐥𝐬:𝐅𝐢𝐧𝐝𝐢𝐧𝐠 𝐑𝐞𝐦𝐨𝐭𝐞 𝐂𝐨𝐝𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐒𝐲𝐬𝐭𝐞𝐦
@@ -20,7 +20,7 @@
 
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:</h3>
 <p align="center">
 <a href="https://hackerone.com/official_blackhat13?type=user" target="blank"><img align="center" src="https://www.hackerone.com/themes/hacker_one/images/logo-hackerone.svg" alt="official_blackhat13" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/_BlackHat13_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
@@ -30,3 +30,5 @@
 <hr>
 
 📫 𝐄𝐦𝐚𝐢𝐥 **official.blackhat13@gmail.com**
+
+<hr>
