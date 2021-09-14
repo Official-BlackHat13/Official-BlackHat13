@@ -4,6 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_BlackHat13_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FOfficial-BlackHat13&screen_name=_BlackHat13_)
 [![Website](https://img.shields.io/website?label=TryHackMe&style=for-the-badge&url=https://tryhackme.com/p/BlackHat13)](https://tryhackme.com/p/BlackHat13)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=𝐇𝐚𝐜𝐤𝐞𝐫;𝐁𝐮𝐠+𝐁𝐨𝐮𝐧𝐭𝐲+𝐇𝐮𝐧𝐭𝐞𝐫;𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲+𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡𝐞𝐫;𝐏𝐲𝐭𝐡𝐨𝐧+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫;T)](https://git.io/typing-svg)
+
 ## 𝐈'𝐦 𝐚 𝐇𝐚𝐜𝐤𝐞𝐫, 𝐁𝐮𝐠 𝐁𝐨𝐮𝐧𝐭𝐲 𝐇𝐮𝐧𝐭𝐞𝐫, 𝐀𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 !!
 
 - 🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐁𝐮𝐠 𝐁𝐨𝐮𝐧𝐭𝐲 𝐇𝐮𝐧𝐭𝐢𝐧𝐠 𝐀𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
