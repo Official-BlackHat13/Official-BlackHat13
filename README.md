@@ -10,4 +10,4 @@
 
 <br />
 
-- 📫 How to reach me **official.blackhat13@gmail.com**
+- 📫 Email **official.blackhat13@gmail.com**
