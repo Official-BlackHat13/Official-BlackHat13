@@ -16,7 +16,7 @@
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Official-BlackHat13&theme=radical">
 <img align="right" height="350" width="400" src="https://tryhackme.com/img/badges/hackerofthemonth.svg" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Official-BlackHat13&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Official-BlackHat13&count_private=true&theme=tokyonight&show_icons=true" />
 
 <hr>
 
